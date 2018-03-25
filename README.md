@@ -1,5 +1,7 @@
 # Modal Painting
 
-Evil mode, for painting with a trackpad/mouse.
+Evil mode painting for trackpad/mouse.
 
-Disclaimer: This was a project to learn about HTML canvas, so it might be borked in some browsers.
+![demo](demo.png)
+
+*This was a project to learn HTML canvas, so it might not work in some browsers.*
