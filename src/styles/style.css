@@ -1,4 +1,5 @@
 body {
+    cursor: crosshair;
     height: 100vh;
 }
 
@@ -11,7 +12,6 @@ canvas {
 
 .canvas-wrapper {
     align-items: center;
-    cursor: crosshair;
     display: flex;
     height: 100vh;
     justify-content: center;
