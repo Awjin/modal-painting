@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+}
+
+canvas {
+    background: #fff;
+    border: 3px solid #eee;
+    box-sizing: border-box;
+    transition: border-color 195ms cubic-bezier(0.4, 0.0, 0.2, 1.0);
+}
+
+.canvas-wrapper {
+    align-items: center;
+    cursor: crosshair;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
+
+.title {
+    font-family:  'Andale Mono', 'Lucida Console', 'monospace';
+    font-size: 16px;
+    left: 7.5vw;
+    position: absolute;
+    top: 1rem;
+}
